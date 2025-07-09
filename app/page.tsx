@@ -15,7 +15,7 @@ export default function Home() {
           alt="Lazwaz Logo"
         />
       </div>
-      <div className="flex flex-col relative mt-5 h-48">
+      <div className="flex flex-col justify-center items-center flex-1 mt-10">
         <div className="sm:mx-auto sm:w-full sm:max-w-sm">
           <Link
             href="/login"
